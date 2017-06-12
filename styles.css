@@ -1,0 +1,75 @@
+nav {
+	border-radius: 0!important;
+}
+span.navbar-brand:hover {
+	color: #fff!important;
+	cursor: default;
+}
+
+
+form {
+	background-color: #ECF0F1;
+	padding: 30px;
+	border-radius: 5px;
+	margin: 30px auto 0;
+	max-width: 400px;
+	text-align: center;
+}
+form button {
+	margin-top: 20px;
+}
+
+
+.jumbotron {
+	text-align: center;
+}
+.alert {
+	padding: 50px;
+	font-size: 150%;
+}
+.alert span {
+	font-weight: bold;
+	color: #cc0000;
+}
+
+
+h1 {
+	text-align: center;
+}
+table {
+	max-width: 500px!important;
+	margin: 30px auto;
+}
+td:last-child {
+	text-align: right;
+	color: brown;
+	font-weight: bold;
+}
+
+
+form.calculator {
+	max-width: 600px;
+}
+form.calculator label {
+	text-align: left!important;
+	padding-top: 0!important;
+}
+form select#year, form select#month {
+	min-width: 100px;
+	width: 100px;
+}
+form select#hours, form select#minutes, form select#day {
+	min-width: 50px;
+	width: 50px;
+}
+.converted {
+	color: brown;
+	font-size: 120%;
+	font-weight: bold;
+}
+
+
+
+
+
+
